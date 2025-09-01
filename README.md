@@ -21,11 +21,21 @@ A modern, full-stack personal finance management application built specifically 
 - Monthly spending trends
 - Financial insights and recommendations
 - Interactive charts with Recharts
+- AI-generated insights and financial tips
+
+###🤖 AI-Powered Features
+-Smart Spending Predictions: Forecast monthly and weekly spending patterns
+-Anomaly Detection: Identify unusual or abnormally high transactions
+-Budget Recommendations: Suggest optimized budgets based on past behavior
+-NLP Expense Parsing: Enter expenses in plain language and let AI parse them
+-AI Insights Dashboard: Central hub for predictions, anomalies, and suggestions
+
 
 ### 🎨 Modern UI/UX
 - Clean, responsive design
 - Mobile-first approach
 - Intuitive navigation with React Router
+
 
 ## 🛠️ Tech Stack
 
@@ -117,29 +127,15 @@ npm start
 - **Expenses**: Detailed list of all transactions with filtering options
 - **Analytics**: Visual insights into your spending habits
 - **Categories**: Organize expenses with color-coded categories
+- **AI Dashboard**: Predictions, anomalies, budget recommendations
 
 ## 🗃️ Database Schema
-
-### Users Table
-- User authentication and preferences
-- Multi-currency support
-- Profile information
-
-### Categories Table
-- Expense categorization
-- Custom colors and icons
-- Default categories for new users
-
-### Expenses Table
-- Transaction records
-- Multi-currency amounts
-- Receipt attachments support
-
-### Budgets Table (planned)
-- Budget tracking
-- Period-based budgets
-- Budget alerts
-
+-Users – Authentication and preferences
+-Categories – Custom and default expense categories
+-Expenses – Transactions with amounts, currencies, categories
+-Predictions (AI) – Stores ML-powered forecasts
+-Anomalies (AI) – Logs unusual transactions
+ 
 ## 🔒 Security Features
 
 - **Password Hashing**: bcrypt with salt rounds
@@ -157,20 +153,18 @@ Built with North Macedonia in mind:
 - Localized date formats
 - Future support for Macedonian language
 
-## 📊 Analytics Features
+## 📊 Analytics Features & AI Features
 
 ### Spending Insights
-- Category-wise breakdown
-- Monthly trends
-- Top spending categories
-- Daily averages
+-Category-wise breakdown
+-Monthly & weekly predictions
+-Top categories with AI recommendations
 
 ### Visualizations
-- Pie charts for category distribution
-- Bar charts for monthly trends
-- Interactive tooltips
-- Responsive chart design
+-Pie charts for distribution
+-Bar charts for trends
+-Highlight anomalies with severity levels
+-Interactive, responsive design
 
-**Made by Endrit Mamuti**
+**Made by Endrit Mamuti 2025**
 
-*Start tracking your expenses today and take control of your financial future!*
