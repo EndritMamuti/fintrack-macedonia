@@ -10,12 +10,11 @@ A modern, full-stack personal finance management application built specifically 
 - Password protection with bcrypt
 
 ### 💳 Expense Management
-	•	Add, edit, and delete expenses
-	•	Categorize expenses with custom colors
-	•	Multi-currency support (MKD, EUR, USD)
-	•	Date-based filtering and search
-	•	Natural Language Expense Input (AI-powered: “Paid 50 EUR for dinner last night”)
-	•	Receipt image uploads (planned)
+- Add, edit, and delete expenses
+- Categorize expenses with custom colors
+- Multi-currency support (MKD, EUR, USD)
+- Date-based filtering and search
+- Natural Language Expense Input (AI-powered: “Paid 50 EUR for dinner last night”)
 
 ### 📊 Analytics & Insights
 - Visual spending breakdowns by category
