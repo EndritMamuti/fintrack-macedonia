@@ -171,27 +171,6 @@ Built with North Macedonia in mind:
 - Interactive tooltips
 - Responsive chart design
 
-## 🚧 Roadmap
-
-### Phase 1 (Current)
-- ✅ User authentication
-- ✅ Basic expense tracking
-- ✅ Category management
-- ✅ Analytics dashboard
-
-### Phase 2 (Upcoming)
-- 🔄 Receipt OCR scanning
-- 🔄 Budget setting and tracking
-- 🔄 Recurring expense automation
-- 🔄 Export functionality
-
-### Phase 3 (Future)
-- 📋 Multi-user family accounts
-- 📋 Macedonian language support
-- 📋 Mobile app (React Native)
-- 📋 Bank integration APIs
-
-
 **Made by Endrit Mamuti**
 
 *Start tracking your expenses today and take control of your financial future!*
