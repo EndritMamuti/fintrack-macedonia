@@ -191,12 +191,7 @@ Built with North Macedonia in mind:
 - 📋 Mobile app (React Native)
 - 📋 Bank integration APIs
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Made with 🇲🇰 in North Macedonia**
+**Made by Endrit Mamuti**
 
 *Start tracking your expenses today and take control of your financial future!*
