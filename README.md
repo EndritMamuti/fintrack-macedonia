@@ -197,29 +197,6 @@ Built with North Macedonia in mind:
 - **Constraint Programming** - For budget optimization
 - **Natural Language Processing** - For expense parsing
 
-## 🚧 Roadmap
-
-### Phase 1 (Completed)
-- ✅ User authentication
-- ✅ Basic expense tracking
-- ✅ Category management
-- ✅ Analytics dashboard
-- ✅ AI predictions and anomaly detection
-- ✅ Natural language expense input
-
-### Phase 2 (Current)
-- 🔄 Receipt OCR scanning with AI
-- 🔄 Advanced budget tracking with ML
-- 🔄 Recurring expense automation
-- 🔄 Export functionality
-
-### Phase 3 (Future)
-- 📋 Multi-user family accounts
-- 📋 Macedonian language support
-- 📋 Mobile app (React Native)
-- 📋 Bank integration APIs
-- 📋 Advanced AI financial advisor
-
 ## 🤖 AI Capabilities
 
 ### Prediction Engine
@@ -276,9 +253,6 @@ cd server && npm run test:ai
 # Build frontend
 cd client && npm run build
 
-# Set production environment
-export NODE_ENV=production
-
 # Start production server
 cd server && npm start
 ```
@@ -292,29 +266,6 @@ JWT_SECRET=your_secure_jwt_secret
 CLIENT_URL=https://your-domain.com
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- OpenAI for inspiration in AI implementation
-- The React community for excellent documentation
-- PostgreSQL team for robust database features
-- Macedonia's fintech community for feedback
-
-## 📞 Support
-
-For support, email support@fintrack.mk or join our Slack channel.
-
 ## 🔮 Future Vision
 
 FinTrack Macedonia aims to become the most intelligent personal finance app in the Balkans, leveraging cutting-edge AI to provide:
@@ -326,15 +277,5 @@ FinTrack Macedonia aims to become the most intelligent personal finance app in t
 
 ---
 
-**Made with 🇲🇰 in North Macedonia**
+**Made by Endrit Mamuti 2025**
 
-*Start tracking your expenses today and let AI take control of your financial future!*
-
----
-
-### 📊 Stats
-- 🤖 **AI Accuracy**: 95%+ prediction confidence
-- 📈 **Performance**: <200ms API response time
-- 🔐 **Security**: Bank-level encryption
-- 📱 **Responsive**: Works on all devices
-- 🌍 **Multilingual**: English/Macedonian support
