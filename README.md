@@ -17,11 +17,11 @@ A modern, full-stack personal finance management application built specifically 
 - Natural Language Expense Input (AI-powered: “Paid 50 EUR for dinner last night”)
 
 ### 📊 Analytics & Insights
-- Visual spending breakdowns by category
-- Monthly spending trends
-- Financial insights and recommendations
-- Interactive charts with Recharts
-- AI-generated insights and financial tips
+ - Visual spending breakdowns by category
+ - Monthly spending trends
+ - Financial insights and recommendations
+ - Interactive charts with Recharts
+ - AI-generated insights and financial tips
 
 ###🤖 AI-Powered Features
 -Smart Spending Predictions: Forecast monthly and weekly spending patterns
