@@ -73,7 +73,7 @@ A modern, full-stack personal finance management application built specifically 
 
 ### 1. Clone the Repository
 ```bash
-git clone (https://github.com/EndritMamuti/fintrack-macedonia.git)
+git clone<https://github.com/EndritMamuti/fintrack-macedonia.git>
 cd fintrack-macedonia
 ```
 
